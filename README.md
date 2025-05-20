@@ -11,7 +11,7 @@ Este proyecto extrae, transforma y carga datos del dólar oficial desde la API d
 - Virtualenv
 - Linux
 
-## Cómo correrlo
+## Cómo se ejecuta
 
 1. Cloná el repositorio
 2. Activá el entorno virtual
